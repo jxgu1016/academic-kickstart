@@ -63,7 +63,7 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "jxgu1016@gmail.com"
-  address = "New Main Building Room E1126, Beihang University, Beijing, 100191, China"
+  address = "Room E1126, New Main Building, Beihang University, Beijing, 100191, China"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
   # phone = "888 888 88 88"
   # skype = "echo123"
@@ -295,10 +295,10 @@ enableGitInfo = false
   url = "#publications_selected"
   weight = 2
 
-# [[menu.main]]
-#   name = "Posts"
-#   url = "#posts"
-#   weight = 3
+[[menu.main]]
+  name = "Posts"
+  url = "#posts"
+  weight = 3
 
 [[menu.main]]
   name = "Projects"
@@ -348,13 +348,41 @@ enableGitInfo = false
   languageCode = "en-us"
 
 # Uncomment the lines below to configure your website in a second language.
-[languages.zh]
-  languageCode = "zh-Hans"
-  title = "Chinese website title..."
-  [languages.zh.params]
-    name = "顾佳昕"
-    role = "硕士研究生in人工智能"
-  [[languages.zh.menu.main]]
-    name = "首页"
-    url = "#about"
-    weight = 1
+# [languages.zh]
+#   languageCode = "zh-Hans"
+#   title = "Time and Pressure"
+#   [languages.zh.params]
+#     name = "顾佳昕"
+#     role = "硕士研究生in人工智能"
+
+#   [[languages.zh.menu.main]]
+#     name = "首页"
+#     url = "#about"
+#     weight = 1
+
+#   [[languages.zh.menu.main]]
+#     name = "论文"
+#     url = "#publications_selected"
+#     weight = 2
+
+#   # [[languages.zh.menu.main]]
+#   #   name = "Posts"
+#   #   url = "#posts"
+#   #   weight = 3
+
+#   [[languages.zh.menu.main]]
+#     name = "项目"
+#     url = "#projects"
+#     weight = 4
+
+#   [[languages.zh.menu.main]]
+#     name = "联系我"
+#     url = "#contact"
+#     weight = 6
+
+#   # Link to a PDF of your resume/CV from the menu.
+#   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+#   [[languages.zh.menu.main]]
+#      name = "简历"
+#      url = "files/cv.pdf"
+#      weight = 7
