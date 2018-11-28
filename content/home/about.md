@@ -30,5 +30,5 @@ weight = 5
 
 # Biography
 
-Jiaxin Gu is a Master candidate of artificial intelligence at Beihang University. His research interests include computer vision and deep learning. He is a top student in the School of Automation Science and Electrical Engineering, supervised by Professor Baochang Zhang, with several papers publicated on top conference and top journal. 
+Jiaxin Gu is a Master candidate of artificial intelligence at Beihang University. His research interests include computer vision and deep learning. He is a top student in the School of Automation Science and Electrical Engineering, supervised by Professor Baochang Zhang, with several papers publicated on top conference and top journal in AI and CV. 
 
