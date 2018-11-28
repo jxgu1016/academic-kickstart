@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Artificial Intelligence",
     "Computer Vision",
-    "DL Model Compresion & Acceleration"
+    "DL Model Compression & Acceleration"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -22,7 +22,7 @@ weight = 5
   year = 2020
 
 [[education.courses]]
-  course = "BSc in Automation Science"
+  course = "B.Eng. in Automation Science"
   institution = "Beihang University"
   year = 2017
  
