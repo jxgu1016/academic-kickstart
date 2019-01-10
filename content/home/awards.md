@@ -15,12 +15,13 @@ weight = 60
 
 +++
 
+* Outstanding Graduate Student, Beihang University, 2018
 * GuoRui Scholarship, CETC, 2018
 * First-class Academic Scholarship, Beihang University, 2018
 * Second-class Academic Scholarship, Beihang University, 2017
 * Honorable Volunteer, CSAA, 2017
 * Honorable Mention, MCM/ICM, 2016
-* Merit Student Award, Beihang University, 2015
+* Outstanding Student, Beihang University, 2015
 * National Endeavor Scholarship, 2015
 * First-class Academic Scholarship, Beihang University, 2015
 * Hongzhi Scholarship, Beihang University, 2014
