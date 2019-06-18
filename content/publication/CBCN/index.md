@@ -56,7 +56,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = ""
+url_poster = "https://drive.google.com/file/d/1cwd4OOU4YSh7dW30SVBywRyDQbhf6kcw/view?usp=sharing"
 url_source = ""
 
 # Custom links (optional).
