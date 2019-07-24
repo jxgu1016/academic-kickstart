@@ -49,7 +49,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://aaai.org/ojs/index.php/AAAI/article/view/4848"
 url_preprint = "https://arxiv.org/abs/1811.12755"
 url_code = ""
 url_dataset = ""
@@ -57,7 +57,7 @@ url_project = ""
 url_slides = "https://drive.google.com/file/d/1FgfCvgkrCuA8Ql-UyWaVwkXRG2KVYVjT/view?usp=sharing"
 url_video = ""
 url_poster = "https://drive.google.com/file/d/17-QUeMQfJi1pqgVi-m4ZxclfDdmNIQSh/view?usp=sharing"
-url_source = "https://www.aaai.org/Papers/AAAI/2019/AAAI-GuJiaxin.1557.pdf"
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
