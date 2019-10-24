@@ -19,7 +19,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "Advances in Image and Graphics Technologies"
-publication_short = "IGTA2017"
+publication_short = "IGTA"
 
 # Abstract and optional shortened version.
 abstract = "The aerial target detection and recognition are very challenging due to large appearance, lighting and orientation variations. We propose a Deep-patch Orientation Network (DON) method, which is general and can learn the encoded orientation information based on any off the-shelf deep detection framework, e.g., Faster-RCNN and YOLO, and result into higher performance in airplane target detection and classification tasks. Most existing methods neglected the orientation information, which in DON is obtained based on the structure information contained in the patch training samples. In testing process, we introduce an orien‐ tation based method to exploit patches for whole target localization. Also, we analyzed how to improve agnostic-target detection framework by tailoring the reference boxes. Experimental results on two datasets show that, our proposed DON method improves the recall at high precision rates for the deep detection framework and provide orientation information for detected targets"
@@ -75,4 +75,5 @@ doi = ""
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
+
 +++
