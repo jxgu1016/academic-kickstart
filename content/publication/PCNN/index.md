@@ -1,6 +1,6 @@
 +++
 title = "Projection Convolutional Neural Networks for 1-bit CNNs via Discrete Back Propagation"
-date = 2018-11-02T15:29:03+08:00
+date = 2019-02-02T15:29:03+08:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
